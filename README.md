@@ -1,9 +1,9 @@
 # Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
-
+```
 Name : P SYAM TEJ
 Roll no: 212221240056
 Date of experiment : 24.11.2022
-
+```
 
 ### Configuring UART in LPC2148 for serial data transmission 
 
